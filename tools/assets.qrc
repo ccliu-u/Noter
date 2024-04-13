@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>../assets/window_start.jpeg</file>
+    <file>../assets/window_icon.png</file>
+    <file>../assets/exit.svg</file>
+    <file>../assets/window_icon.png</file>
+    <file>../assets/book.svg</file>
+    <file>../assets/book1.svg</file>
+    <file>../assets/book2.png</file>
+    <file>../assets/folder.png</file>
+    <file>../assets/log.svg</file>
+    <file>../assets/add.svg</file>
+    <file>../assets/setting.svg</file>
+    <file>../assets/setting2.svg</file>
+    <file>../assets/right_bg.png</file>
+    <file>../assets/1.png</file>
+    <file>../assets/2.png</file>
+    <file>../assets/3.png</file>
+    <file>../assets/4.png</file>
+    <file>../assets/5.png</file>
+    <file>../assets/6.png</file>
+    <file>../notes/notes_list.txt</file>
+    <file>../assets/bold.png</file>
+    <file>../assets/italic.png</file>
+    <file>../assets/picture.png</file>
+    <file>../assets/undo.png</file>
+    <file>../assets/redo.png</file>
+    <file>../assets/strikethrough.png</file>
+    <file>../assets/quote.png</file>
+    <file>../assets/bullet-list.png</file>
+    <file>../assets/number.png</file>
+    <file>../assets/url.png</file>
+    <file>../assets/code.png</file>
+    <file>../assets/checklist.png</file>
+    <file>../assets/calendar.png</file>
+    <file>../assets/line.png</file>
+    <file>../assets/save.png</file>
+  </qresource>
+</RCC>
